@@ -52,9 +52,7 @@ Your sponsorship will help me achieve my goals and support future projects.
   
 <a href="https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a"><img src="https://github.com/TakiShiwa/donate-with-upi/blob/main/Button/SVG/UPI-Mocha-02.svg" height="40"></a>
     
-- PayPal for international supporters:
-  
-<a href="https://www.paypal.me/TakiShiwa"><img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/blue.svg" height="40"></a>
+- 
   
 ---
 
